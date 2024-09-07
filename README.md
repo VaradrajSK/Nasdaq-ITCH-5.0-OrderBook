@@ -1,4 +1,5 @@
 This repo contains a verilog implementation of an order book based of Nasdaq TotalView-ITCH 5.0 protocol
+**Please email me for the verilog source code or to discuss further varadrajsinaikakodkar@gmail.com**
 
 Directory Structure
 - doc
